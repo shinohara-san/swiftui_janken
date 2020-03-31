@@ -13,6 +13,7 @@
 		95F387D0243236DC0048B74A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95F387CF243236DC0048B74A /* Assets.xcassets */; };
 		95F387D3243236DC0048B74A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95F387D2243236DC0048B74A /* Preview Assets.xcassets */; };
 		95F387D6243236DC0048B74A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95F387D4243236DC0048B74A /* LaunchScreen.storyboard */; };
+		95F387DE24331FCE0048B74A /* Timer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95F387DD24331FCE0048B74A /* Timer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		95F387D2243236DC0048B74A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		95F387D5243236DC0048B74A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		95F387D7243236DC0048B74A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		95F387DD24331FCE0048B74A /* Timer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Timer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				95F387C9243236D20048B74A /* AppDelegate.swift */,
 				95F387CB243236D20048B74A /* SceneDelegate.swift */,
 				95F387CD243236D20048B74A /* ContentView.swift */,
+				95F387DD24331FCE0048B74A /* Timer.swift */,
 				95F387CF243236DC0048B74A /* Assets.xcassets */,
 				95F387D4243236DC0048B74A /* LaunchScreen.storyboard */,
 				95F387D7243236DC0048B74A /* Info.plist */,
@@ -149,6 +152,7 @@
 				95F387CA243236D20048B74A /* AppDelegate.swift in Sources */,
 				95F387CC243236D20048B74A /* SceneDelegate.swift in Sources */,
 				95F387CE243236D20048B74A /* ContentView.swift in Sources */,
+				95F387DE24331FCE0048B74A /* Timer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
